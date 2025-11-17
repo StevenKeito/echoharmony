@@ -1,0 +1,40 @@
+.stack-sans-notch{
+  font-family: "Stack Sans Notch", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+
+body {
+		background-color: #25E6AA;
+	}
+
+	h1 {
+		font-family: Arial;
+		color: #E55224;
+	}
+
+	p {
+		font-family: Arial;
+		color: #3c0580;
+	}
+
+	.md-img {
+		border-radius: 25px;
+		width: 600px;
+		padding: 20px;
+	}
+
+	.sm-img {
+		width: 200px;
+		
+	}
